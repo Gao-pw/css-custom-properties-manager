@@ -1,0 +1,24 @@
+{
+  "name": "@siroi/css-custom-properties-manager",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "css custom properties managemant by using js",
+  "module": "./dist/index.js",
+  "types": "./types/index.d.ts",
+  "files": [
+    "dist",
+    "types"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "css properties"
+  ],
+  "author": "siroi",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  }
+}
