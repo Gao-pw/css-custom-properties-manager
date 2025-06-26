@@ -20,5 +20,8 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
+  },
+  "devDependencies": {
+    "@siroi/tsconfig": "^1.0.1"
   }
 }
