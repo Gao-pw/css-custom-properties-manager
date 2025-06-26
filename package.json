@@ -1,6 +1,6 @@
 {
   "name": "@siroi/css-custom-properties-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "css custom properties managemant by using js",
   "module": "./dist/index.js",
